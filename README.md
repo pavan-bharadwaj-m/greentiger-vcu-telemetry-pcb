@@ -15,7 +15,7 @@ and bring-up support**.
 
 - Vehicle Control Unit (VCU) and IoT telemetry board development
 - Integration of **ESP32 MCU** with **GPS** and **cellular (GSM/4G)** modules
-- Automotive power environment support (**12–60 V rails**) with protection and regulation
+- Automotive power environment support (**12–5 V and 5 - 3.3 rails**) with protection and regulation
 - Layout emphasis: **power integrity, return paths, EMI robustness**
 - Manufacturing release support (Gerbers/drill/BOM/pick-and-place/fab notes) and bring-up debug
 
